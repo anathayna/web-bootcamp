@@ -1,2 +1,2 @@
 # web-bootcamp
-Web Development Bootcamp (Javascript, Node, React)
+Web Development Bootcamp 
