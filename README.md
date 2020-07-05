@@ -1,2 +1,2 @@
 # web-bootcamp
-Web Development Bootcam
+Web Development Bootcamp
