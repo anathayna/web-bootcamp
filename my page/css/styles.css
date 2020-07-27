@@ -1,10 +1,17 @@
 body{
     margin: 0px;
     text-align: center;
+    font-family: 'Merriweather', sans-serif;
 }
 
 h1 {
     margin-top: 0px;
+    font-family: 'Sacramento', sans-serif;
+}
+
+h2 {
+    margin-top: 0px;
+    font-family: 'Montserrat', sans-serif;
 }
 
 .top-container {
