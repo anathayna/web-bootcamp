@@ -21,15 +21,9 @@ h2 {
 }
 
 .middle-container {
-    background-color: #ffffff;
-    width: 200px;
-    height: 200px;
 }
 
 .bottom-container {
-    background-color: #76e5e6;
-    width: 200px;
-    height: 200px;
 }
 
 .top-cloud {
@@ -43,3 +37,12 @@ h2 {
     left: 300px;
     bottom: 300px;
 }
+
+.photo {
+    border-radius: 50%;
+    border-width: 2.7px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: auto;
+  }
