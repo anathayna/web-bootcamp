@@ -9,7 +9,7 @@ export default function Home() {
   return (
     <div className={styles.container}>
       <Head>
-        <title>inicío | move.it</title>
+        <title>início | move.it</title>
       </Head>
       <ExperienceBar />
       <section>
