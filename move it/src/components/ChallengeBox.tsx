@@ -28,10 +28,10 @@ export function ChallengeBox() {
                         <p>{activeChallenge.description}</p>
                     </main>
                     <footer>
-                        <button type="button" className={styles.challengeFailedButton} onClick={handleChallengeSucceeded}>
+                        <button type="button" className={styles.challengeFailedButton} onClick={handleChallengeFailed}>
                             falhei :(
                         </button>
-                        <button type="button" className={styles.challengeSucceededButton} onClick={handleChallengeFailed}>
+                        <button type="button" className={styles.challengeSucceededButton} onClick={handleChallengeSucceeded}>
                             completei \o/
                         </button>
                     </footer>
