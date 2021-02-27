@@ -1,0 +1,16 @@
+import styles from '../styles/components/LevelUpModal.module.css'
+
+export function LevelUpModal() {
+    return(
+        <div className={styles.overlay}>
+            <div className={styles.container}>
+                <header>2</header>
+                <strong>parabains!</strong>
+                <p>você alcançou um novo level!</p>
+                <button type="button">
+                    <img src="/icons/close.svg" alt="fechar modal"/>
+                </button>
+            </div>
+        </div>
+    )
+}
